@@ -1,0 +1,1075 @@
+1579871492389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileV7HdBR"
+1579871492880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579871492880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579871492880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579871492882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579871495047	Marionette	INFO	Listening on port 52706
+1579871495503	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Child 20008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 200[Parent 9592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579879099874	Marionette	INFO	Stopped listening on port 52706
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arionette	INFO	Listening on port 52841
+1579871544116	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Child 19504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1950[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1579879100620	Marionette	INFO	Stopped listening on port 52841
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e	WARN	TLS certificate errors will be ignored for this session
+[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20716, Chrome_[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579879101373	Marionette	INFO	Stopped listening on port 53178
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579871881871	Marionette	INFO	Listening on port 53487
+1579871882105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579871912098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579871930075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579871948021	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579871965957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579871983956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872019467	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872037436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872055434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872073399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872091357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872109340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872127281	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872163131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872181059	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872199045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872216989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872252470	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872322980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872340902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872358883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872376867	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872412519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872430455	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872465910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872483906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872501904	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872537484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872555440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1579872591044	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 19668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/[Parent 19668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1579879102917	Marionette	INFO	Stopped listening on port 53487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579893572647	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileWL2UYi"
+1579893574743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579893574743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579893574743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579893574744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 18372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi1579893578184	Marionette	INFO	Listening on port 51797
+1579893578377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6212, Chrome_ChildThread] WARNING: pipe error:[Parent 17996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579893599898	Marionette	INFO	Stopped listening on port 51797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579893606378	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofile6AEsVi"
+1579893607058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579893607058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579893607059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579893607059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579893609381	Marionette	INFO	Listening on port 51911
+1579893609497	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 15916, Ch
+###!!! [Child][MessageChannel] Error: (msgtype=0x37010C,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+rome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6348, Chrome_ChildThread] WARNING: pipe error: 11579902073163	Marionette	INFO	Stopped listening on port 51911
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579902086423	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilema66t7"
+1579902087166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579902087166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579902087167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579902087167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579902089382	Marionette	INFO	Listening on port 61832
+1579902089536	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_157528293[5/build/src/ipc/chromium/src/chrome/cCommon/ipc_channel_win.cc, line 341h
+ild [C18232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6664, Chrome_ChildThread] WARNING: pipe error: 1579902248527	Marionette	INFO	Stopped listening on port 61832
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 9776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9776, Chrome_ChildThread] [Parent 1448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579902250020	Marionette	INFO	Stopped listening on port 62043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579902261871	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileUorKtq"
+1579902262370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579902262370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579902262370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579902262371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579902264257	Marionette	INFO	Listening on port 62167
+1579902264483	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8008, Chrome_ChildThread] WARNING:[Parent 232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1579943874948	Marionette	INFO	Stopped listening on port 62167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579944184602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileteaIT3"
+1579944185814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579944185815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579944185815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579944185815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579944188429	Marionette	INFO	Listening on port 62140
+1579944188731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579945698784	Marionette	INFO	Stopped listening on port 62140
+[Child 15076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Child 18212, Chrome_ChildThread][Parent 12340, Gecko_IOThread] WARNING: pipe  eWrArRoNrI:N G109: file z:/task_1575282935/build/src/: pipe erroirp:c /1c0h9romium/src/chrome/common/ipc_channe:l _win.cc, line 341
+file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 18168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1816IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579946003045	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilesAQnGi"
+1579946003517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579946003517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579946003517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579946003517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579946005605	Marionette	INFO	Listening on port 64299
+1579946005662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579948496742	Marionette	INFO	Stopped listening on port 64299
+[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 17176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579948976331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileAh3eiw"
+1579948976787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579948976788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579948976788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579948976788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579948979075	Marionette	INFO	Listening on port 51621
+1579948979452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579953974054	Marionette	INFO	Stopped listening on port 51621
+[Parent 15432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 17816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17816, Chrome_Chi[Parent 15432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 48
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579954277767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileafkSvq"
+1579954278241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579954278241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579954278241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579954278242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579954280334	Marionette	INFO	Listening on port 57837
+1579954280379	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17724, Chrome_ChildThread] WA[Parent 15000, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1579971799363	Marionette	INFO	Stopped listening on port 57837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579971802759	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileaPQfTc"
+1579971803250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579971803250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579971803250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579971803251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579971805492	Marionette	INFO	Listening on port 61953
+1579971805889	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 7708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7708, Chrome_ChildThread] WARNING[Parent 16008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18156, Chr1579974070548	Marionette	INFO	Stopped listening on port 61953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 627
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579974075454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileUNeEqL"
+1579974076402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579974076402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579974076402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579974076402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579974079630	Marionette	INFO	Listening on port 64712
+1579974079676	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/sr[Child 15468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_[chanCnel_whin.cc, illid n1e8 2341
+72, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 16396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1579985542059	Marionette	INFO	Stopped listening on port 64712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+be ignored for this session
+[Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579984682507	Marionette	INFO	Stopped listening on port 61289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579985434802	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilepSqjLF"
+1579985435588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579985435588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579985435589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579985435589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579985438701	Marionette	INFO	Listening on port 62884
+1579985438929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/ line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+[Child 7592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7592, Chrome_ChildThre[Child 18724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_157528293[Parent 19236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19056, Chrome_Chi1579985535227	Marionette	INFO	Stopped listening on port 62884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579985549144	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileOXZqWV"
+1579985549941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579985549941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579985549941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579985549941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579985552719	Marionette	INFO	Listening on port 63304
+1579985552765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+[Parent 13940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13224, Chrome_ChildThread] WARNING: pipe error: 109: file1579986083839	Marionette	INFO	Stopped listening on port 63304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579986106050	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofile9Renw7"
+1579986106861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579986106861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579986106861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579986106861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579986109595	Marionette	INFO	Listening on port 64524
+1579986109674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1579986272531	Marionette	INFO	Stopped listening on port 64524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579986277232	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofile2vKzPz"
+1579986278075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579986278075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579986278076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579986278076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579986280968	Marionette	INFO	Listening on port 65060
+1579986281356	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19220, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 19220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19220, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 19220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1579987021208	Marionette	INFO	Stopped listening on port 65060
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579987037104	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileYrO42M"
+1579987037859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579987037860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579987037860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579987037860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987040610	Marionette	INFO	Listening on port 50501
+1579987040726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+JavaScript error: https://tel.search.ch/itjs/?files=jquerybuild.js,sl_core.js,sl.js,nav-full.js,service-form.js,geo.js,overlay.js,sl_sortable.js,jquery.fancybox.js,sl_state.js,tel-common.js,tel-full.js,fbpreload.js&c=55e04dd215, line 844: TypeError: p is undefined
+[Parent 14032, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14032, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14032, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579987089365	Marionette	INFO	Stopped listening on port 50501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6804
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ resource://pdf.js/
+1579987086680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987090647	Marionette	INFO	Listening on port 50781
+1579987091105	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579987331341	Marionette	INFO	Stopped listening on port 50781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9987128417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579987128417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987131602	Marionette	INFO	Listening on port 51066
+1579987131843	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1579987332402	Marionette	INFO	Stopped listening on port 51066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late t[Child 20072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20072, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d 20072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17980, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579987334199	Marionette	INFO	Stopped listening on port 51398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579987339883	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilepo43w2"
+1579987340944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579987340944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579987340945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579987340945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987343903	Marionette	INFO	Listening on port 51885
+1579987344004	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Child 19512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19512, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 19512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1579987617862	Marionette	INFO	Stopped listening on port 51885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 284
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579987653817	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileXoQTzP"
+1579987654591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579987654591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579987654592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579987654592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987657501	Marionette	INFO	Listening on port 52666
+1579987657937	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 18652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1579987694882	Marionette	INFO	Stopped listening on port 52666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579987970022	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilewJ2TSQ"
+1579987970985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579987970985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579987970985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579987970985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579987973340	Marionette	INFO	Listening on port 50285
+1579987973656	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 5624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1579988233396	Marionette	INFO	Stopped listening on port 50285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1579988249796	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileBcLapQ"
+1579988250282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579988250283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579988250283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579988250283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579988252343	Marionette	INFO	Listening on port 50881
+1579988252408	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[ild 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 17280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1580019108090	Marionette	INFO	Stopped listening on port 50881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580019129022	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileI1mrVX"
+1580019129767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580019129767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580019129768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580019129768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580019131757	Marionette	INFO	Listening on port 54241
+1580019132144	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Csk_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+h[Chilild 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 16364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1580019193572	Marionette	INFO	Stopped listening on port 54241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580021942846	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileB3b6CM"
+1580021944113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580021944113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580021944114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580021944114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580021947152	Marionette	INFO	Listening on port 52089
+1580021947583	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 10532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37010E,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+vaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.6ffae7b8-53c0-4a33-80a4-0c33946c2d2a$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.6ffae7b8-53c0-4a33-80a4-0c33946c2d2a$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Felsenegg%2014%2C%20Zugerberg line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Gimenenstrasse%208.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.8dbb4551-c1f9-4c48-b076-5c8efa6c0273$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.8dbb4551-c1f9-4c48-b076-5c8efa6c0273$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=G%C3%B6blistrasse%2014%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.c2c017a7-9938-4dfe-afb0-6d9169327362$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.c2c017a7-9938-4dfe-afb0-6d9169327362$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Horbach%207.4%2C%20Zugerberg line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.d44293f3-981d-474a-9312-bfa0b2b4b35e$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.d44293f3-981d-474a-9312-bfa0b2b4b35e$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tel.search.ch/?wo=Im%20R%C3%B6tel%2016%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Kirchenstrasse%207%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Knopfliweg%204.3%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Kolinplatz%2012%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Letzistrasse%2017%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Letzistrasse%2025.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.8273637c-36f2-47d0-b1be-30e9ac9980e9$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.8273637c-36f2-47d0-b1be-30e9ac9980e9$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.577b5a4d-7ea5-4c88-89ae-fd91ce82e517$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.577b5a4d-7ea5-4c88-89ae-fd91ce82e517$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.500b2c3a-951e-4d97-8eb7-78936f208379$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.500b2c3a-951e-4d97-8eb7-78936f208379$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Meisenbergstrasse%209a.3%2C%20Oberwil%20b.%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Mittelmatt%20e%2C%20Zugerberg line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Obmoos%20112.12%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Rothusweg%206.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=R%C3%A4bmatt%2033d%2C%20Oberwil%20b.%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Schilfmattweg%209.2%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Schilfmattweg%209.4%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://tel.search.ch/?wo=Steinhauserstrasse%2052%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.aa2f5e1c-0f69-4e2e-b1e9-82fa9368d0f8$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.aa2f5e1c-0f69-4e2e-b1e9-82fa9368d0f8$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.37b63410-c828-4a42-bfbb-86dc8099b4d9$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.37b63410-c828-4a42-bfbb-86dc8099b4d9$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tel.search.ch/?wo=Terrassenweg%203a.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.0750fc74-d9ea-4a94-910b-c9eff6c7c5a4$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.0750fc74-d9ea-4a94-910b-c9eff6c7c5a4$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.4ac6dae8-1c7e-4848-8ff4-66c94630f64d$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.4ac6dae8-1c7e-4848-8ff4-66c94630f64d$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Vorstadt%2030.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Weinbergstrasse%2043.1%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.eb370f9d-0b2b-474b-ac27-bbaa1c55067d$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=SetState&campaignID=801213&statevalue=$$cv.7577+sz.eb370f9d-0b2b-474b-ac27-bbaa1c55067d$$, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://tel.search.ch/?wo=Zugerbergstrasse%203b%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Zugerbergstrasse%2054%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tel.search.ch/?wo=Zugerbergstrasse%205a%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tel.search.ch/?wo=Zugerbergstrasse%209%2C%20Zug line 6 > scriptElement, line 1: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200122/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+[Child 10952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10952, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 10952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1580057840612	Marionette	INFO	Stopped listening on port 52427
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580055773097	Marionette	INFO	Listening on port 54200
+1580055773172	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16308, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8908, Chrome_ChildThread] WARNING: pipe error: 109[Parent 16308, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17400, Chrome_Ch1580057836791	Marionette	INFO	Stopped listening on port 54200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580064738386	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofileGdbpJy"
+1580064739744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580064739744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580064739745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580064739745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580064743105	Marionette	INFO	Listening on port 53217
+1580064743124	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10884, Chrome_ChildThread] WARNING: pi[Parent 6544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1580067998076	Marionette	INFO	Stopped listening on port 53217
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580067024491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580067024491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580067024639	addons.xpi-utils	WARN	updateMetadata: Add-on ddg-onion@search.mozilla.org is invalid: Error: File resource://search-extensions/ddg-onion/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067024653	addons.xpi-utils	WARN	updateMetadata: Add-on yahoo@search.mozilla.org is invalid: Error: File resource://search-extensions/yahoo/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067024724	addons.xpi-utils	WARN	updateMetadata: Add-on disconnect@search.mozilla.org is invalid: Error: File resource://search-extensions/disconnect/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067024724	addons.xpi-utils	WARN	updateMetadata: Add-on youtube@search.mozilla.org is invalid: Error: File resource://search-extensions/youtube/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067024725	addons.xpi-utils	WARN	updateMetadata: Add-on startpage@search.mozilla.org is invalid: Error: File resource://search-extensions/startpage/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067024745	addons.xpi	WARN	Add-on langpack-de@firefox.mozilla.org is missing bootstrap method update
+1580067024746	addons.xpi	WARN	Add-on langpack-en-US@firefox.mozilla.org is missing bootstrap method update
+1580067025326	addons.xpi-utils	WARN	Add-on langpack-de@firefox.mozilla.org is not compatible with application version.
+1580067025326	addons.xpi-utils	WARN	Add-on langpack-en-US@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580067026714	addons.xpi-utils	WARN	addMetadata: Add-on ddg-onion@search.mozilla.org is invalid: Error: File resource://search-extensions/ddg-onion/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067026715	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067026725	addons.xpi-utils	WARN	addMetadata: Add-on yahoo@search.mozilla.org is invalid: Error: File resource://search-extensions/yahoo/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067026725	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067026728	addons.xpi-utils	WARN	addMetadata: Add-on disconnect@search.mozilla.org is invalid: Error: File resource://search-extensions/disconnect/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067026728	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067026736	addons.xpi-utils	WARN	addMetadata: Add-on youtube@search.mozilla.org is invalid: Error: File resource://search-extensions/youtube/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067026736	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067026740	addons.xpi-utils	WARN	addMetadata: Add-on startpage@search.mozilla.org is invalid: Error: File resource://search-extensions/startpage/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067026740	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067027390	Marionette	INFO	Listening on port 56087
+1580067027532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 15980, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1580067037812	Marionette	INFO	Stopped listening on port 56087
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580067176483	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Zoe\\AppData\\Local\\Temp\\rust_mozprofilec1V4LX"
+1580067177951	addons.xpi-utils	WARN	Add-on langpack-de@firefox.mozilla.org is not compatible with application version.
+1580067177951	addons.xpi-utils	WARN	Add-on langpack-de@firefox.mozilla.org is not compatible with application version.
+1580067178313	addons.xpi-utils	WARN	Add-on langpack-en-US@firefox.mozilla.org is not compatible with application version.
+1580067178313	addons.xpi-utils	WARN	Add-on langpack-en-US@firefox.mozilla.org is not compatible with application version.
+1580067178360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580067178360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580067178360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580067178361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580067178547	addons.xpi-utils	WARN	updateMetadata: Add-on ddg-onion@search.mozilla.org is invalid: Error: File resource://search-extensions/ddg-onion/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067178561	addons.xpi-utils	WARN	updateMetadata: Add-on yahoo@search.mozilla.org is invalid: Error: File resource://search-extensions/yahoo/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067178659	addons.xpi-utils	WARN	updateMetadata: Add-on disconnect@search.mozilla.org is invalid: Error: File resource://search-extensions/disconnect/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067178660	addons.xpi-utils	WARN	updateMetadata: Add-on youtube@search.mozilla.org is invalid: Error: File resource://search-extensions/youtube/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067178661	addons.xpi-utils	WARN	updateMetadata: Add-on startpage@search.mozilla.org is invalid: Error: File resource://search-extensions/startpage/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+updateMetadata@XPIDatabase.jsm:2817:32
+updateExistingAddon@XPIDatabase.jsm:3033:23
+processFileChanges@XPIDatabase.jsm:3120:31
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1580067178682	addons.xpi	WARN	Add-on langpack-de@firefox.mozilla.org is missing bootstrap method update
+1580067178683	addons.xpi	WARN	Add-on langpack-en-US@firefox.mozilla.org is missing bootstrap method update
+1580067179413	addons.xpi-utils	WARN	Add-on langpack-de@firefox.mozilla.org is not compatible with application version.
+1580067179414	addons.xpi-utils	WARN	Add-on langpack-en-US@firefox.mozilla.org is not compatible with application version.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580067181117	addons.xpi-utils	WARN	addMetadata: Add-on ddg-onion@search.mozilla.org is invalid: Error: File resource://search-extensions/ddg-onion/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067181118	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067181123	addons.xpi-utils	WARN	addMetadata: Add-on yahoo@search.mozilla.org is invalid: Error: File resource://search-extensions/yahoo/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067181123	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067181124	addons.xpi-utils	WARN	addMetadata: Add-on disconnect@search.mozilla.org is invalid: Error: File resource://search-extensions/disconnect/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067181124	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067181129	addons.xpi-utils	WARN	addMetadata: Add-on youtube@search.mozilla.org is invalid: Error: File resource://search-extensions/youtube/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067181130	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067181131	addons.xpi-utils	WARN	addMetadata: Add-on startpage@search.mozilla.org is invalid: Error: File resource://search-extensions/startpage/ does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:749:24
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+getNewSideloads@XPIProvider.jsm:2960:28
+1580067181131	addons.xpi-utils	WARN	Not uninstalling invalid item because it is a proxy file
+1580067181841	Marionette	INFO	Listening on port 56332
+1580067181969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 6260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1580068004908	Marionette	INFO	Stopped listening on port 56332
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
